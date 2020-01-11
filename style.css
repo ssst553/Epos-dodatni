@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.partner{
+    width: 200px;
+  
+}
+
+.ppt{
+    background-image: url(img/pozadina.jpg);
+    width: 100%;
+}
+
+header{
+  background-color: #222;
+  color: antiquewhite;
+
+
+}
+
+.partner:hover{
+opacity: 70%;
+}
+
+.tabela{
+    list-style-type: none;
+}
+.tabela2 li{
+    list-style-type: none;
+    display: inline-block;
+}
+#razmak{
+    color:white;
+}
+
+*{
+    margin: auto;
+}
